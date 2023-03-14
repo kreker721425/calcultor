@@ -8,8 +8,6 @@ import java.util.Scanner;
 public class MainApplication {
 
     public static void main(String[] args) {
-        System.out.println("***** Доброго времени суток, дорогой друг!\n" +
-                "***** Этот калькулятор умеет выполнять арифметические операции (+, -, *, /) над двумя числами.\n");
 
         //Считываем пример
         System.out.print(">");
